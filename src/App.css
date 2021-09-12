@@ -1,0 +1,28 @@
+.App{
+    margin: 0;
+}
+
+.App-Day{
+    background-color: #fafafa;
+    color:#212e37;
+    border-color: #fff;
+}
+
+.App-Dark{
+    background-color: #212e37;
+    color: white;
+    border-color: #212e37;
+}
+
+.body-container{
+    position: relative;
+    top: 60px;
+    background-color: inherit;
+    color: inherit;
+    min-height: 100vh;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}

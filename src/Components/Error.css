@@ -1,0 +1,9 @@
+.error-modal{
+    background-color: inherit;
+    color: inherit;
+}
+
+.close{
+    background-color: none;
+    border: none;
+}
